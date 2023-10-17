@@ -9,7 +9,6 @@ int sortarray(int *binary ,int n){
         if(binary[i]==1){
             swap(binary[i],binary[j]);
             j--;
-            if()
             count++;
         }else{
             i++;
